@@ -2571,7 +2571,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Nkwenda Health Centre",
@@ -2584,6 +2584,22 @@
                 "coordinates": [
                       30.887965,
                       -1.480436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Entebbe Airport Centre",
+                "address": "Uganda",
+                "city": "Kampala",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      32.4600,
+                     0.0500
                 ]
             }
         },
