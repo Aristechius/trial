@@ -2587,22 +2587,7 @@
                 ]
             }
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Entebbe Airport Centre",
-                "address": "Uganda",
-                "city": "Kampala",
-                "phone": "#"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                      32.4600,
-                     0.0500
-                ]
-            }
-        },
+        
         {
             "type": "Feature",
             "properties": {
